@@ -1,5 +1,7 @@
 # Sentiment Analysis
  Sentiment analysis done on covid 19 tweets using LSTM and naive bayes. 
+ 
+ 
 Dataset:
 Approx 2 months’ data in the form of tweets with hashtag #covid19, #coronavirus, #coronavirusoutbreak, #coronavirusPandemic, #covid19, #covid_19, #epitwitter, #ihavecorona, #StayHomeStaySafe, #TestTraceIsolate have been considered. 
 
